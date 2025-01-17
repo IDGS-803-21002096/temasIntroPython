@@ -11,4 +11,4 @@ print(num1)
 
 numero3="23"
 numero4="12"
-print(int(numero3)+int(numero4))
+print(int(numero3)+int(numero4)) #2312
